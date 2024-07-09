@@ -4,10 +4,11 @@
 // @match        *://alohomora-bucket-fra1-prod-frontend-static.fra1.cdn.digitaloceanspaces.com/*
 // @icon         https://img.cryptorank.io/coins/w_coin1718038816897.png
 // @run-at       document-start
+// @author       amir-homous
 // @grant        none
-// @downloadURL  https://github.com/mudachyo/W-Coin/raw/main/w-coin-web.user.js
-// @updateURL    https://github.com/mudachyo/W-Coin/raw/main/w-coin-web.user.js
-// @homepage     https://github.com/mudachyo/W-Coin/
+// @downloadURL  https://github.com/amir-homous/W-Coin/raw/main/w-coin-web.user.js
+// @updateURL    https://github.com/amir-homous/W-Coin/raw/main/w-coin-web.user.js
+// @homepage     https://github.com/amir-homous/W-Coin/
 // ==/UserScript==
 
 (function() {
