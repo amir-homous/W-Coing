@@ -3,16 +3,16 @@
 > - Канал: [Telegram Channel](https://t.me/shopalenka) 
 > - 🇪🇳 README in english available [here](README-EN.md)
 ---
-## Как запустить  
-- Установить в свой браузер расширение [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
-- Для того, чтобы W-Coin открывался в браузере установите [этот скрипт](https://github.com/mudachyo/W-Coin/raw/main/w-coin-web.user.js)
-- Открыть [Бота W-Coin](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dwcoin_tapbot%26start%3DMjQ3NTUyNg%253D%253D) и запустить игру
+## How to run  
+- Install extension in your browser [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
+- In order for W-Coin to open in a browser, install [этот скрипт](https://github.com/mudachyo/W-Coin/raw/main/w-coin-web.user.js)
+- Open [Bot W-Coin](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dwcoin_tapbot%26start%3DMjQ3NTUyNg%253D%253D) and run the game
 
-![Результат](image.png)
+![Result](image.png)
 
 ---
 > [!TIP]
-> Другие репозитории:
+> Other repositories:
 > 
 > - [Hamster Kombat + Autoclicker](https://github.com/mudachyo/Hamster-Kombat)
 > 
@@ -35,9 +35,9 @@
 > - [W-Coin](https://github.com/mudachyo/W-Coin)
 ---
 > [!IMPORTANT] 
-> Пожертвование
+> Donation
 > 
-> Мы принимаем следующие криптовалюты:
+> We accept the following cryptocurrencies:
 > 
 > - **TON**: `UQCGUzPN5GnFqWJiYsFtqqLGO75-cBXlOL8f_qbd7yKY2Tzh`
 > 
@@ -49,4 +49,4 @@
 > 
 > - **BTC**: `1Mba8xKKVLdcFJdV7jD8Ba3fFn7DWbp4bt`
 > 
-> Пожертвования будут использованы для поддержания/сохранения проекта.
+> Donations will be used to maintain the project.
